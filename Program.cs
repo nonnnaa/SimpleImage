@@ -75,9 +75,9 @@ namespace Program
                     // tam giac can tren n dong (n = 4)
                     for(int i=0 ; i<4 ; i++)
                     {
-                        for(int j=0 ; j<(2 * 4 - 1) ; j++)
+                        for(int j=0 ; j<(i + 4) ; j++)
                         {
-                            if(i + j >= 4 - 1 && j - i <= 4 -1)
+                            if(i + j >= 4 - 1)
                             {
                                 Console.Write("*");
                             }
