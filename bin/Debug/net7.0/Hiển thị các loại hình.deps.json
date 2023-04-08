@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Hiển thị các loại hình/1.0.0": {
+        "runtime": {
+          "Hiển thị các loại hình.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hiển thị các loại hình/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

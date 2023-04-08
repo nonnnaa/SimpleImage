@@ -1,0 +1,15 @@
+E:\ALL GIT C#\Hiển thị các loại hình\bin\Debug\net7.0\Hiển thị các loại hình.exe
+E:\ALL GIT C#\Hiển thị các loại hình\bin\Debug\net7.0\Hiển thị các loại hình.deps.json
+E:\ALL GIT C#\Hiển thị các loại hình\bin\Debug\net7.0\Hiển thị các loại hình.runtimeconfig.json
+E:\ALL GIT C#\Hiển thị các loại hình\bin\Debug\net7.0\Hiển thị các loại hình.dll
+E:\ALL GIT C#\Hiển thị các loại hình\bin\Debug\net7.0\Hiển thị các loại hình.pdb
+E:\ALL GIT C#\Hiển thị các loại hình\obj\Debug\net7.0\Hiển thị các loại hình.csproj.AssemblyReference.cache
+E:\ALL GIT C#\Hiển thị các loại hình\obj\Debug\net7.0\Hiển thị các loại hình.GeneratedMSBuildEditorConfig.editorconfig
+E:\ALL GIT C#\Hiển thị các loại hình\obj\Debug\net7.0\Hiển thị các loại hình.AssemblyInfoInputs.cache
+E:\ALL GIT C#\Hiển thị các loại hình\obj\Debug\net7.0\Hiển thị các loại hình.AssemblyInfo.cs
+E:\ALL GIT C#\Hiển thị các loại hình\obj\Debug\net7.0\Hiển thị các loại hình.csproj.CoreCompileInputs.cache
+E:\ALL GIT C#\Hiển thị các loại hình\obj\Debug\net7.0\Hiển thị các loại hình.dll
+E:\ALL GIT C#\Hiển thị các loại hình\obj\Debug\net7.0\refint\Hiển thị các loại hình.dll
+E:\ALL GIT C#\Hiển thị các loại hình\obj\Debug\net7.0\Hiển thị các loại hình.pdb
+E:\ALL GIT C#\Hiển thị các loại hình\obj\Debug\net7.0\Hiển thị các loại hình.genruntimeconfig.cache
+E:\ALL GIT C#\Hiển thị các loại hình\obj\Debug\net7.0\ref\Hiển thị các loại hình.dll
